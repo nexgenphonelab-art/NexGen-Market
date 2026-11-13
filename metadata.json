@@ -1,0 +1,6 @@
+{
+  "name": "NexGen Market",
+  "description": "AliExpress-style multi-vendor e-commerce marketplace with integrated POS, universal customizable receipt designer, inventory, CRM, financial analytics, and role-based business administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
